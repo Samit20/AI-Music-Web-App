@@ -1,0 +1,25 @@
+.heading {
+    width: 100%;
+    margin: 0px;
+    font-size: 30px;
+}
+
+.note {
+    font-size: 15px;
+    color: rgb(12, 53, 66);
+    font-weight: bold;
+}
+
+body {
+    background-size: cover;
+}
+
+.div_song {
+    color: hotpink;
+    font-size: 20px;
+}
+
+canvas {
+    border: 5px solid blanchedalmond;
+    margin-top: 30px;
+}
